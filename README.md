@@ -34,18 +34,8 @@ Data Analysis Projects (Power BI)
 - Created interactive dashboards to analyze datasets  
 - Helped in decision-making through visual reports  
 
----
 
-## 📜 Certificates
-- Data Analysis Certificate  
-- Large Language Models (LLMs) Bootcamp Certificate  
-
----
-
-## ⚡ Fun Facts
-- I love exploring GNU/Linux  
-- Ask me about web development or data analysis!  
 
 <div align="center">
-Find me on GitHub: [https://github.com/ReemAlharbi](https://github.com/ReemAlharbi)  
+
 </div>
