@@ -4,7 +4,8 @@
 REEM ALHARBI
 </h2>
 
-<p>I’m a Computer Science student who enjoys coding, solving problems, and turning ideas into practical solutions, and I’m always working on improving myself.</p>
+<p>I’m a Computer Science student 🤓 
+who enjoys coding, solving problems, and turning ideas into practical solutions, and I’m always working on improving myself🤩💜.</p>
 
 </div>
 
