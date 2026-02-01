@@ -1,7 +1,12 @@
 <div align="center" width="50">
 
+<h2 style="background-color:#f0c674; color:#1a1a1a; padding:10px 20px; border-radius:12px; display:inline-block;">
+REEM ALHARBI
+</h2>
 
+<p>I’m a Computer Science student who enjoys coding, solving problems, and turning ideas into practical solutions, and I’m always working on improving myself.</p>
 
+</div>
 
 <hr></hr>
 
@@ -17,25 +22,3 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLMs-8A2BE2?style=flat&logo=ai&logoColor=white)
-
----
-
-## 💻 Projects
-
-Hospital Management System  
-- Designed and developed the full system including database (SQL) and interfaces  
-- Managed patient data, appointments, and operations  
-
-Ethr – Tourism Places Website  
-- Developed website to add and manage tourist locations  
-- Built front-end with HTML & CSS  
-
-Data Analysis Projects (Power BI)  
-- Created interactive dashboards to analyze datasets  
-- Helped in decision-making through visual reports  
-
-
-
-<div align="center">
-
-</div>
